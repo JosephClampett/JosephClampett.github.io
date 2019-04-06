@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Joseph Clampett's Blog"
 title_separator          : "-"
 name                     : &name "Joseph Clampett"
-description              : &description "personal description"
-url                      : josephclampett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Avid graphics programmer, learner, etc."
+url                      : https://josephclampett.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "josephclampett/josephclampett.github.io"
+repository               : "josephclampett.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
