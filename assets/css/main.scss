@@ -37,3 +37,14 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/*
+ * Equations with KaTeX
+ *
+ * Center the equation content.
+ */
+.equation
+{
+    padding-bottom:  1rem;
+    text-align:      center;
+}
