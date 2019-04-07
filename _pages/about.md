@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 Joseph Clampett's blog
+
+Bio to come
